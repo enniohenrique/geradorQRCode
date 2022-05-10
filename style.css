@@ -137,22 +137,19 @@ body {
         width: 390px;
     }
 
-
     /* Active */
 
     .wrapper.active {
         display: block;
         height: 400px;
+        
     }
     .wrapper.active h1{
         margin-top: 20px;
     }
-    .wrapper.active .qr-code{
+    .wrapper.active .qr-code {
         padding: 0;
         text-align: center;
-    }
-    .wrapper .qr-code img {
-        
     }
 
 
