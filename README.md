@@ -21,10 +21,9 @@ Acesse o site clicando [aqui.](https://enniohenrique.github.io/geradorQRCode/)
 ## Imagens
 
 ### Computador 💻
-![image](https://user-images.githubusercontent.com/89741211/167973821-77828ca2-9fce-4a64-a585-c585b3635e58.png)
-![teste2](https://user-images.githubusercontent.com/89741211/167974195-150de4c9-c5fa-4789-9a17-619d7cee910c.png)
-
+![image](https://user-images.githubusercontent.com/89741211/167975091-86d786e9-435a-4581-b594-c546d3007872.png)
+![image](https://user-images.githubusercontent.com/89741211/167975275-94e18aa3-53ad-4b86-96c1-1ec9902f0a54.png)
 ### Celular 📱 
 
-![image](https://user-images.githubusercontent.com/89741211/167974348-8bff642b-0653-42a6-bffd-fece7098eaf2.png)
-![image](https://user-images.githubusercontent.com/89741211/167974493-2560b90b-f337-4cff-968d-33ca514faeb9.png)
+![image](https://user-images.githubusercontent.com/89741211/167975383-5412d8cb-2a58-4a13-b86f-38d8df67707e.png)
+![image](https://user-images.githubusercontent.com/89741211/167975345-aa6aac1e-519c-4a07-837e-f7ca0f3f43be.png)
